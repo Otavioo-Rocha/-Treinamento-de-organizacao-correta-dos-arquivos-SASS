@@ -1,0 +1,14 @@
+//importar demais arquivos aqui!
+//não esquecere que a importaçao de cores vem sempre primeiro!
+
+        //Cores
+@import "./pages/variaveis/cores/colors.scss";
+
+        //Comuns
+@import "./pages/variaveis/common/common.scss";
+
+        //Cdastro
+@import "./pages/cadastro.scss";
+
+        //Login 
+@import "./pages/login.scss";
